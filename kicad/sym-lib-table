@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "Diamond")(type "KiCad")(uri "${KIPRJMOD}/Diamond.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom")(type "KiCad")(uri "${KIPRJMOD}/Custom.kicad_sym")(options "")(descr ""))
+)
